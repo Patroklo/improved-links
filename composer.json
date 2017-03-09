@@ -1,0 +1,30 @@
+{
+  "name": "patroklo/improved-links",
+  "description": "Improved links that use HTML methods when clicked.",
+  "keywords": [
+    "laravel",
+    "link",
+    "post",
+    "put",
+    "patch",
+    "delete"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joseba Juániz",
+      "email": "joseba.juaniz@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "laravel/framework": "5.*",
+    "laravelcollective/html": "5.4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Patroklo\\ImprovedLinks\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
