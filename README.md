@@ -11,8 +11,6 @@ Links that send HTTP methods when clicked. Useful when needing POST or DELETE li
 
 ## Install
 
-Before the installation, make sure you have installed 
-
 Add this package with composer with the following command:
 
 ```bash
